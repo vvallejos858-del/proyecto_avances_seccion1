@@ -104,3 +104,16 @@ Con el desarrollo de este proyecto se logró:
 
 ## Código
 [FineTunning.pdf](https://github.com/user-attachments/files/24174526/FineTunning.pdf)
+
+
+## Resultados cuantificables
+
+Los resultados obtenidos evidencian una mejora respecto al modelo base:
+
+- Incremento del accuracy
+- Incremento del F1-score
+- Mayor estabilidad entre ejecuciones
+- Reducción del error de clasificación
+
+Gracias al uso de MLflow, se registraron métricas, parámetros y tiempos de ejecución,
+permitiendo una comparación objetiva entre las distintas configuraciones evaluadas.
