@@ -1,9 +1,9 @@
 # Proyecto de Inteligencia Artificial
 
-Repositorio académico para la organización de prácticas de Inteligencia Artificial,
-donde cada práctica se estructura de forma clara y reproducible.
+Repositorio académico para la organización de proyectos de Inteligencia Artificial,
+donde cada proyecto se estructura de forma clara y reproducible.
 
-Cada práctica contiene:
+Cada proyecto contiene:
 - Descripción del problema
 - Stack tecnológico
 - Arquitectura del sistema (fases)
@@ -18,7 +18,7 @@ Este repositorio está orientado a fines académicos y de aprendizaje práctico.
 
 # Fine-Tuning de un MLP con MLflow
 
-En esta práctica se realizó la optimización (fine-tuning) de un modelo de red neuronal
+En este proyecto se realizó la optimización (fine-tuning) de un modelo de red neuronal
 multicapa (MLP) aplicado a un problema de clasificación supervisada, utilizando MLflow
 para el seguimiento de experimentos y métricas.
 
@@ -29,7 +29,7 @@ de hiperparámetros y evaluar cuantitativamente los resultados obtenidos.
 
 ## Descripción del problema
 
-El problema abordado en esta práctica consiste en mejorar el desempeño de un modelo
+El problema abordado en este proyecto consiste en mejorar el desempeño de un modelo
 de clasificación supervisada aplicado a un conjunto de datos estructurados. El modelo
 base presenta limitaciones en métricas de evaluación como el accuracy y el F1-score,
 debido al uso de hiperparámetros fijos y no optimizados.
@@ -44,7 +44,7 @@ rendimiento mediante un proceso sistemático de experimentación.
 
 ## Stack tecnológico
 
-El desarrollo de esta práctica se realizó utilizando el siguiente stack tecnológico:
+El desarrollo de este proyecto se realizó utilizando el siguiente stack tecnológico:
 
 - Lenguaje de programación: Python 3
 - Librerías principales:
@@ -86,3 +86,21 @@ La arquitectura del proyecto se organizó en las siguientes fases:
 ### Fase 4 – Evaluación y comparación
 - Comparación de métricas entre configuraciones
 - Selección del modelo con mejor desempeño global
+
+## Capturas
+
+
+## Qué se logró
+
+Con el desarrollo de este proyecto se logró:
+
+- Mejorar el desempeño del modelo base mediante fine-tuning
+- Identificar una configuración óptima de hiperparámetros
+- Reducir el riesgo de sobreajuste del modelo
+- Implementar un flujo de trabajo reproducible
+- Integrar MLflow como herramienta de seguimiento experimental
+- Analizar de forma objetiva el impacto de cada ajuste realizado
+
+
+## Código
+
